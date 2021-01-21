@@ -1,0 +1,60 @@
+h1 {
+  font-size: 64px;
+  font-family: inherit;
+  font-style: bold;
+  background-color:#6ea0d1;
+  width: 600px;
+}
+
+img {
+  position:absolute;
+  left: 630px;
+  margin-top: -116px;
+  width: 700px;
+  align-items: left;
+  border:5px solid;
+}
+
+p {
+  font-size: 35px;
+  align-content:center;
+  border:5px solid;
+}
+
+h2 {
+  background-color:#9dcfe8;
+  font-size:40px;
+  font-style: italic;
+}
+
+#paragraph {
+  width: 600px;
+  height:550px;
+}
+
+h3 {
+  font-size: 60px;
+  position:absolute;
+  left:630px;
+  margin-top:-180px;
+  background-color:#9dcfe8;
+}
+
+ul{
+  position:absolute;
+  left:750px;
+  margin-top:-430px;
+}
+.lablist {
+
+  font-size: 30px;
+  font-style: underline;
+  width: 530px;
+  position:absolute;
+  left:800px;
+  margin-top:-180px;
+  height:185px;
+  border:5px solid;
+}
+
+* {background-color:#bcd4c2;}

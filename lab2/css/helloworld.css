@@ -1,36 +1,36 @@
+
 h1 {
-    color: #771145;
-    font-size: 1000%;
-}
-
-h2 {
-  color: #8034a7;
-  font-size: 350%;
-}
-
-p {
-   font-family: "monospace";
-   font-size: 200%;
-   text-indent: 50px;
-   margin-left: 5px;
+  font-size: 80px;
+  font-family: inherit;
+  font-style: bold;
+  text-align: center;
 }
 
 img {
-     width: 1200px;
-     margin-left: 20px;
-     border: solid 15px #9ebba3;
-     align-content: center;
+  width: 1200px;
+  align-items: left;
 }
 
-#content {
-    background-color: #9ebba3;
-    width: 1200px;
-    min-height: 400px;
-    margin: 20px;
-    border: solid 15px #46293a;
-    text-align: center;
+p {
+  font-size: 50px;
+  align-content:center;
+}
+#paragraph {
+  background-color: #b0ebfe;
+  border:antiquewhite;
+  width: 1200px;
+  text-align: center;
 }
 
-body {
-  background-color: #754752;
+h2 {
+  font-size: 70px;
+  text-align: center;
+}
+
+.lablist {
+  background-color: #bf86bd7d;
+  font-size: 40px;
+  font-style: underline;
+  text-align: center;
+  width:1200px;
 }
